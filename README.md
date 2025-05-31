@@ -1,4 +1,7 @@
 # IMLP
 IMLP courses
 
-Day01-Hw Completed Unit01_Crash Course on Python.ipynb
+Hw1-Unit01_Crash Course on Python.ipynb
+Hw2-Not yet
+Hw3-Unit03: 4,5,6.ipynb
+Hw4-Unit04: Linear Regression_HW.ipynb
