@@ -3,7 +3,7 @@ IMLP courses
 
 Hw1-Unit01_Crash Course on Python.ipynb 
 
-Hw2-Not yet 
+Hw2-NumPy, Pandas, Matplotlib, Seaborn
 
 Hw3-Unit03: 4,5,6.ipynb 
 
